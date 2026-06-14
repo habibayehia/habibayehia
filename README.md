@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 مرحباً، أنا حبيبة يحيى
 
-<!--
-**habibayehia/habibayehia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**مطورة ويب** شغوفة ببناء تجارب مستخدم ممتعة وسهلة.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ المهارات التقنية
+
+- **Front-End:** HTML, CSS, JavaScript
+- **Back-End:** PHP
+- **قواعد البيانات:** MySQL
+- **أدوات:** Git, GitHub
+
+---
+
+## 📁 مشاريعي المميزة
+
+| المشروع | الوصف | التقنيات |
+| :--- | :--- | :--- |
+| [🐾 Pet Hub](https://github.com/habibayehia/pethub) | منصة متكاملة لخدمات الحيوانات الأليفة (تبني، منتجات، عيادات بيطرية) | PHP, MySQL, HTML, CSS, JS |
+| [📱 Task QR](https://github.com/habibayehia/task-qr) | تطبيق عملي لإنشاء رموز QR بسرعة وسهولة | HTML, CSS, JS |
+| [⭐ Task Start](https://github.com/habibayehia/task-start) | واجهة تفاعلية لنظام التقييم بالنجوم | HTML, CSS, JS |
+
+---
+
+## 📫 كيفية التواصل
+
+- **GitHub:** [habibayehia](https://github.com/habibayehia)
+
+---
+
+⭐ **شكراً لزيارتك صفحتي!**
